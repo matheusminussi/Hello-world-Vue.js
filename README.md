@@ -1,7 +1,7 @@
 # Projeto hello-world com Vue.js
 Apresentação do Projeto Full Stack - Vue.js + Java Spring Boot
 
-*1. Instalação e Configuração do Ambiente de Desenvolvimento*
+**1. Instalação e Configuração do Ambiente de Desenvolvimento
 Tecnologias utilizadas:
 - Frontend: Vue.js
 - Backend: Java com Spring Boot
