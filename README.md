@@ -1,7 +1,7 @@
 # Projeto hello-world com Vue.js
 Apresentação do Projeto Full Stack - Vue.js + Java Spring Boot
 
-1. Instalação e Configuração do Ambiente de Desenvolvimento
+*1. Instalação e Configuração do Ambiente de Desenvolvimento*
 Tecnologias utilizadas:
 - Frontend: Vue.js
 - Backend: Java com Spring Boot
@@ -20,10 +20,11 @@ Passos iniciais:
 - Crie um banco de dados chamado 'meubanco' com usuário e senha.
 - No backend Spring Boot, configure o acesso no application.properties:
 
+```
 spring.datasource.url=jdbc:postgresql://localhost:5432/meubanco
 spring.datasource.username=usuario
 spring.datasource.password=senha
-
+```
 3. Backend: Java + Spring Boot com Maven
 - O backend utiliza Maven como gerenciador de dependências.
 - No IntelliJ, importe o projeto como Maven Project.
